@@ -1,3 +1,3 @@
 
 
-Sounds, tools, etc.
+[Sounds](/sounds.md), tools, etc.
