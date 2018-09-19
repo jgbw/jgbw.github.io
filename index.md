@@ -22,6 +22,6 @@ A collection of things recorded roughly when I was living in the Middle East.
 
 ###bszvulbdrvry
 
-Two things recorded years ago that don't fit elsewhere (a synthpop track and something super-slowed-down.
+Two things recorded years ago that don't fit elsewhere (a synthpop track and something super-slowed-down).
 
 <iframe width="100%" height="450" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/playlists/606498309&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true"></iframe>
