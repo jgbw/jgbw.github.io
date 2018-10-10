@@ -10,7 +10,7 @@ A selection of sketches recorded in the first half of 2016, narrowed down from a
 
 #### Lunai Lisma
 
-A collection of tracks recorded roughly when I was living in the Middle East.
+A collection of tracks recorded roughly when I was living in the Middle East. Roughly recorded samples and fuzzy synths.
 
 <iframe width="100%" height="450" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/playlists/606491472&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true"></iframe>
 
