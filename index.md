@@ -22,7 +22,7 @@ A collaborative track made with [midcentury modular](https://midcenturymodular.b
 
 <iframe style="border: 0; width: 100%; height: 120px;" src="https://bandcamp.com/EmbeddedPlayer/album=1460347571/size=large/bgcol=ffffff/linkcol=0687f5/tracklist=false/artwork=small/track=171231711/transparent=true/" seamless><a href="http://lcrp.bandcamp.com/album/duets">duets by midcentury modular &amp; Unknown Known</a></iframe>
 
-### Other
+### And Also
 
 #### Disquiet Junto
 
